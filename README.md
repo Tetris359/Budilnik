@@ -24,7 +24,7 @@
 - Java;
 - SQLite;
 - Android Studio.
-- 
+  
 ### Как пользователи могут приступить к работе с проектом
 Для внесения правок пользователь может скачать .zip архив кода по [ссылке](https://disk.yandex.ru/client/disk/AlarmClock), затем открыть файл в Android Studio .
 
